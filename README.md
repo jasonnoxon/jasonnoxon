@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there
+
+I'm currently working on my personal website/blog (finally, and again) using GatsbyJS.
+
+Fun fact: I don't have wings, yet.
 
 <!--
 **jasonnoxon/jasonnoxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
